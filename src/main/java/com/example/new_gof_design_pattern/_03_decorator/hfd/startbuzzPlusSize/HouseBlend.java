@@ -1,4 +1,4 @@
-package com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize.startbuzz;
+package com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize;
 
 public class HouseBlend extends Beverage {
 

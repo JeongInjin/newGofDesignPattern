@@ -1,6 +1,6 @@
-package com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize.startbuzz;
+package com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize;
 
-import static com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize.startbuzz.Beverage.Size.*;
+import static com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlusSize.Beverage.Size.*;
 
 public class Mocha extends CondimentDecorator {
 
