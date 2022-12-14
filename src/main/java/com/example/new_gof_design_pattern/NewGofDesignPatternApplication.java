@@ -11,18 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NewGofDesignPatternApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NewGofDesignPatternApplication.class, args);
 
-        Duck mallard = new MallarDuck();
-        mallard.performQuack();
-        mallard.performFly();
-
-        System.out.println("==============================================");
-
-        Duck model = new ModelDuck();
-        model.performFly();
-        model.setFlyBehavior(new FlyRocketPowered());
-        model.performFly();
     }
 
 }
