@@ -4,6 +4,7 @@ import static com.example.new_gof_design_pattern._03_decorator.hfd.startbuzzPlus
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {
+        System.out.println("====================================================");
         Beverage beverage1 = new Espresso();
         beverage1.setSize(GRANDE);
         System.out.println(beverage1.getDescription() + " $" + beverage1.cost());
