@@ -1,0 +1,7 @@
+package com.example.new_gof_design_pattern._04_factory.hfd.pizza_factory_abstract;
+
+public class MarinaraSauce extends Sauce {
+    public String toString() {
+        return "Marinara Sauce";
+    }
+}
