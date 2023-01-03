@@ -1,4 +1,4 @@
-package com.example.new_gof_design_pattern._10_iterator.hfd.dinermergercafe;
+package com.example.new_gof_design_pattern._10_iterator.hfd.dinermergercafe_02;
 
 public class MenuTestDrive {
 	public static void main(String args[]) {
